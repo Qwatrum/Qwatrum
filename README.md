@@ -3,7 +3,6 @@ Hi there 👋
 
 𝚍𝚘𝚒𝚗𝚐 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚎𝚛 𝚜𝚝𝚞𝚏𝚏 
 
-➤ Python / Java / Godot / ...
 
 
 ### Socials
